@@ -1,0 +1,51 @@
+{
+    "parking_spots": [
+        {
+            "id": 1,
+            "status": "free"
+        },
+        {
+            "id": 2,
+            "status": "free"
+        },
+        {
+            "id": 3,
+            "status": "free"
+        },
+        {
+            "id": 4,
+            "status": "free"
+        },
+        {
+            "id": 5,
+            "status": "free"
+        }
+    ],
+    "vehicles": [
+        {
+            "plate": "43S43210",
+            "spot": 1,
+            "time_in": "2025-08-05 20:03:24"
+        },
+        {
+            "plate": "",
+            "spot": 2,
+            "time_in": ""
+        },
+        {
+            "plate": "",
+            "spot": 3,
+            "time_in": ""
+        },
+        {
+            "plate": "",
+            "spot": 4,
+            "time_in": ""
+        },
+        {
+            "plate": "",
+            "spot": 5,
+            "time_in": ""
+        }
+    ]
+}
